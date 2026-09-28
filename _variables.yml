@@ -1,9 +1,9 @@
 student:
-  name: "Nama Mahasiswa"
-  id: "NIM"
-  program: "Program Studi"
-  cohort: "Angkatan"
-  email: "nama@kampus.ac.id"
+  name: "Natasha Aurellia"
+  id: "18225101"
+  program: "Sistem dan Teknologi Informasi"
+  cohort: "2025"
+  email: "18225101@std.stei.itb.ac.id"
 
 course:
   code: "KIPP-2"
@@ -12,5 +12,5 @@ course:
   semester: "Semester / Tahun Akademik"
 
 repository:
-  url: "https://github.com/USERNAME/NAMA-REPOSITORY"
+  url: "https://github.com/snowberi/kipp-students"
 
