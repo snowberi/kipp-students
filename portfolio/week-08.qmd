@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Belum dimulai"
+status: "Siap dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
@@ -16,24 +16,31 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 
 | Elemen | Isi mahasiswa |
 |---|---|
-| Nama | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Teks/suara; sumber transkripsi] |
-| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+| Nama | Natasha Aurellia |
+| NIM | 18225101 |
+| Kelas | K1 (dikonfirmasi dalam percakapan; identitas sesi 2a sudah diperbarui) |
+| Periode/tanggal pelaksanaan | 15 Oktober 2026 (sesi 1, 2a, 2b, 3a, dan 3b, berdasarkan laporan) |
+| Versi bank/paket aktif | Bank 2.0; paket individual 2.0 |
+| Modalitas | Teks melalui chat AI; bukan transkripsi suara |
+| Status pengumpulan | Makalah pra-UTS dan lima laporan tersedia sebagai berkas final portofolio; bukti unggah ke portal belum tersedia. |
 
 ## Makalah dan lima laporan
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Makalah tersedia; belum ada bukti unggah | Makalah membahas empat pertanyaan MBTI/PASK dan menyertakan daftar pustaka; penilaian resmi belum tersedia. |
+| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; Budi (K1-02) sebagai tokoh pembanding | Laporan tersedia; belum ada bukti unggah | Transkrip, tujuan, uji ulang, refleksi, dan konfirmasi tercantum; penilaian enam dimensi masih BT. Target belajar 16–30 Oktober dan evaluasi 23/30 Oktober adalah rencana, bukan hasil teramati. |
+| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | Elsa (K2-05) | Laporan direvisi; belum ada bukti unggah | Identitas dan kelas K1 sudah diperbarui; simulasi, uji ulang, dan refleksi tersedia. Konfirmasi tahap G khusus sesi 2a tidak terekam dan tidak direkayasa. |
+| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | Cyntia (K2-03), berbeda dari Elsa | Laporan tersedia; belum ada bukti unggah | Simulasi 11 giliran, uji ulang 3 giliran, evaluasi ASK/SWOT, refleksi serta konfirmasi; hasil tugas kelompok belum terverifikasi di luar simulasi. |
+| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | Budi (K3-02) | Laporan tersedia; belum ada bukti unggah | Simulasi 12 giliran, uji ulang 3 giliran, evaluasi ASK/SWOT dan refleksi; uji coba sistem merupakan skenario simulasi, bukan verifikasi implementasi nyata. |
+| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | Fajar (K3-06), berbeda dari Budi | Laporan tersedia; belum ada bukti unggah | Simulasi 12 giliran, uji ulang 3 giliran, evaluasi dan refleksi; skenario mencatat penghematan waktu 25%, tetapi keterlambatan 4–5 pesanan/minggu belum turun. |
+
+
+## Refleksi lintas sesi
+
+Kelima sesi memperlihatkan bahwa saya perlu menyesuaikan komunikasi dengan kebutuhan lawan bicara, bukan menyamaratakan pendekatan. Pada Kasus 1, fokusnya adalah mengenali kebiasaan diri serta menyusun langkah belajar yang bisa dievaluasi. Dalam Kasus 2, percakapan dengan Elsa (2a) membutuhkan kejelasan cakupan tugas dan jadwal, sedangkan Cyntia (2b) membutuhkan ruang untuk menyampaikan keberatan, dukungan, dan pembagian yang dianggap adil. Pada Kasus 3, Budi (3a) lebih membutuhkan rasa aman untuk mencoba pencatatan sederhana dan pendampingan, sedangkan Fajar (3b) meminta penjelasan singkat dengan angka dan kriteria keputusan yang terukur.
+
+Saya belajar bahwa perhatian pada orang lain harus disertai pembagian tanggung jawab yang konkret. Menawarkan solusi tidak berarti memaksakan AI atau menjamin manfaat yang belum diuji. Keberhasilan yang tercatat dalam laporan terutama berupa perubahan respons dan kesepakatan **di dalam simulasi**; hasil tugas kelompok atau implementasi sistem di dunia nyata belum terverifikasi. Saya juga perlu lebih konsisten menyepakati ukuran keberhasilan dan mekanisme evaluasi sejak awal percakapan.
 
 {{< include "../includes/uts-penilaian.md" >}}
 
@@ -41,11 +48,11 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 
 | Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
 |---|---:|---|---|---|---|
-| Makalah | 10% | — | — | — | Belum dinilai |
-| Sesi 1 | 18% | — | — | — | Belum dinilai |
-| Sesi 2a | 18% | — | — | — | Belum dinilai |
-| Sesi 2b | 18% | — | — | — | Belum dinilai |
-| Sesi 3a | 18% | — | — | — | Belum dinilai |
-| Sesi 3b | 18% | — | — | — | Belum dinilai |
+| Makalah | 10% | — | — | — | Makalah tersedia; belum ada skor resmi atau self-assessment |
+| Sesi 1 | 18% | — | BT | — | Transkrip tersedia; enam dimensi dinyatakan BT dalam laporan |
+| Sesi 2a | 18% | — | BT | — | Identitas dilengkapi; tahap G khusus 2a tidak tercatat; skor numerik tetap BT |
+| Sesi 2b | 18% | — | 95,83 (usulan) | — | Laporan mengusulkan 23/24; belum dimoderasi dosen |
+| Sesi 3a | 18% | — | 95,83 (usulan) | — | Laporan mengusulkan 23/24; belum dimoderasi dosen |
+| Sesi 3b | 18% | — | 95,83 (usulan) | — | Laporan mengusulkan 23/24; belum dimoderasi dosen |
 
 **Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.
