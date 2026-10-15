@@ -1,0 +1,234 @@
+---
+title: "Laporan UTS KIPP 2026 — Sesi 3a"
+subtitle: "Kasus 3 — Customer TI/AI"
+author: "Natasha Aurellia (18225101)"
+date: "2026-10-15"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Natasha Aurellia |
+| NIM | 18225101 |
+| Kelas dan tanggal | K1; 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a; Kasus 3 — Customer TI/AI |
+| Nama dan ID target | Budi (K3-02) |
+| Paket | `kasus_3a_18225101.zip`, bank dan paket 2.0 |
+| Modalitas | Teks melalui chat AI; kutipan dari percakapan tertulis |
+| Kasus nyata/fiktif | Simulasi fiktif dengan karakter Budi |
+| Kelengkapan transkrip | Semua respons mahasiswa dan Budi pada simulasi serta uji ulang disalin lengkap; respons tertulis mahasiswa pada tahap B, D, F, G turut disalin. Prompt pengarahan AI antargiliran diringkas sebagai petunjuk tahap, tidak diklaim sebagai ucapan Budi. |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Budi mengelola usaha kecil dengan pertanyaan berulang dan pesanan yang kadang tercecer. Ia ragu terhadap biaya, kerumitan dan manfaat AI. Mahasiswa ingin menggali masalah terlebih dahulu, lalu membantu menentukan pencatatan pesanan sederhana yang bisa dicoba dengan biaya rendah. Keberhasilan komunikasi ditandai oleh kejelasan kebutuhan, kesepakatan uji coba, dan evaluasi berbasis bukti; **bukan** kewajiban Budi membeli atau memakai AI.
+
+## Profil awal komunikator
+
+| Unsur | Laporan awal dan bukti | Kepastian |
+|---|---|---|
+| SWOT subjektif | Kekuatan: bersedia mendengarkan; peluang: solusi sederhana; kelemahan/risiko: belum mengetahui kebutuhan rinci Budi (B-U01–03) | Refleksi atas rencana, bukan penilaian psikologis |
+| Attitude | Tidak ingin memaksa solusi AI (B-U01) | Pernyataan diri |
+| Knowledge | Mengetahui perlunya menggali masalah dan biaya sebelum menyarankan teknologi (B-U01–03) | Pernyataan diri |
+| Skill | Merencanakan pertanyaan eksploratif dan mendengarkan (B-U03) | Rencana sebelum simulasi |
+| Preferensi/MBTI | Tidak dilaporkan; tidak didiagnosis | Tidak tersedia |
+| Karakter/peran | Mahasiswa sebagai calon pemberi solusi TI/AI; menjaga penghormatan terhadap keputusan pemilik usaha | Penugasan dan pernyataan diri |
+
+## Dugaan awal profil target dan rencana
+
+Dugaan awal mahasiswa: Budi mungkin menganggap AI mahal, sukar, dan menambah kerja; kemungkinan sudah memakai teknologi sehari-hari namun membutuhkan panduan. Semua merupakan dugaan, bukan fakta sebelum dialog (B-U02). Rencana: berbicara sopan dan santai, memeriksa alur layanan, menggali dampak pesanan tercecer, baru menjelaskan opsi (B-U03).
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Memahami kebutuhan, menyepakati percobaan yang sesuai | A: tidak tertekan; K: mengerti pilihan; S: dapat mencoba | Penemuan kebutuhan → opsi → kesepakatan | Persetujuan sukarela dan rencana ukur |
+| Attention | Budi bersedia berdialog | A: merasa didengar | Pertanyaan proses harian | Budi memaparkan proses |
+| Interest | Masalah pesanan terlewat dipahami | K: manfaat potensial | Gali frekuensi, dampak, preferensi | Masalah prioritas spesifik |
+| Desire | Budi menimbang solusi | A/K: kekhawatiran diakui | Solusi sederhana, biaya rendah, non-AI dahulu | Menyatakan ketertarikan |
+| Action | Bersedia uji coba dan evaluasi | S: belajar pencatatan dan pembaruan status | Pendampingan, indikator, jadwal tinjauan | Kesepakatan dua minggu dan uji ulang |
+
+# C) Skrip Percakapan
+
+**Penanda:** `B-U` jawaban mahasiswa di Tahap B; `U` ujaran mahasiswa dalam simulasi; `AI` ujaran Budi yang diperankan chatbot; `D-U` evaluasi mahasiswa; `F-U` refleksi; `G-U` konfirmasi. Kutipan ditulis sebagaimana percakapan, tanpa pengubahan isi. Pertanyaan pengarahan AI bukan ucapan Budi, sehingga hanya ditandai melalui subjudul tahapan.
+
+## Tahap A — Identifikasi
+
+Nama dan NIM berasal dari penugasan dan dikonfirmasi pada sesi sebelumnya; kelas K1 telah disampaikan mahasiswa. Identifikasi dalam sesi ini merujuk identitas tersebut.
+
+## Tahap B — Tujuan, dugaan, dan rencana
+
+**B-U01 — Tujuan komunikasi:** “Tujuan saya adalah memahami dulu masalah yang dihadapi Budi dalam mengelola pertanyaan pelanggan dan pesanan yang sering tercecer. Saya nggak ingin langsung meyakinkan Budi untuk menggunakan AI, karena belum tentu itu solusi yang paling sesuai dengan kebutuhan usahanya. Saya ingin mendengarkan kendala dan kekhawatirannya terlebih dahulu, baru menawarkan solusi yang sederhana, realistis, dan sesuai kemampuan usahanya.”
+
+**B-U02 — Dugaan awal:** “Menurut saya, Budi mungkin ragu menggunakan AI karena khawatir biayanya mahal, sulit digunakan, atau justru menambah pekerjaan. Saya menduga Budi sudah cukup terbiasa menggunakan teknologi sederhana untuk usahanya, tetapi belum terlalu memahami manfaat dan cara kerja AI. Dari segi kemampuan, mungkin dia bisa menggunakan aplikasi sehari-hari, namun masih membutuhkan panduan untuk teknologi baru. Tapi ini masih dugaan saya, jadi saya perlu bertanya langsung agar tidak salah memahami kondisinya.”
+
+**B-U03 — Rencana komunikasi:** “Saya akan memulai percakapan dengan santai tetapi tetap sopan, supaya Budi merasa nyaman dan nggak seperti sedang ditawari produk. Saya ingin menanyakan bagaimana biasanya dia melayani pertanyaan pelanggan dan mencatat pesanan sehari-hari. Setelah itu, saya akan menggali bagian mana yang paling sering menyulitkan dan apa dampaknya bagi usaha Budi. Saya akan mendengarkan dulu sebelum menawarkan solusi, supaya teknologi yang disarankan benar-benar sesuai kebutuhannya.”
+
+## Tahap C — Simulasi awal (12 giliran)
+
+**U001 (Mahasiswa):** “Selamat siang, Pak Budi. Saya ingin ngobrol sedikit tentang usaha Bapak, terutama cara menangani pertanyaan pelanggan dan mencatat pesanan. Kalau boleh tahu, selama ini Bapak biasanya mengelola semuanya seperti apa? Apakah ada bagian yang sering membuat Bapak kewalahan?”
+
+**AI001 (Budi):** “Siang, Mbak. Kalau pertanyaan pelanggan biasanya saya jawab sendiri lewat WhatsApp. Pesanan juga saya catat manual, kadang di buku, kadang di chat. Memang kalau lagi ramai suka kewalahan, bahkan pernah ada pesanan yang kelewat dicatat. Tapi selama ini masih bisa saya tangani. Saya juga belum kepikiran pakai teknologi macam-macam, takut malah bikin ribet.”
+
+**U002 (Mahasiswa):** “Ohh, berarti selama ini Bapak masih bisa menangani sendiri, tapi mulai kewalahan kalau pesanan sedang ramai ya, Pak. Saya paham kalau Bapak khawatir teknologi baru malah bikin pekerjaan tambah ribet. Kalau boleh tahu, pesanan yang terlewat itu biasanya karena chat pelanggan menumpuk atau karena pencatatannya terpisah antara buku dan WhatsApp? Terus, seberapa sering kejadian seperti itu terjadi?”
+
+**AI002 (Budi):** “Sebenernya dua-duanya, Mbak. Kalau lagi ramai, chat pelanggan bisa numpuk dan saya kadang lupa mana yang sudah pesan atau baru tanya harga. Catatan di buku juga kadang nggak langsung saya perbarui. Kejadiannya mungkin dua sampai tiga kali seminggu. Tapi saya masih ragu kalau harus pakai aplikasi baru, soalnya saya nggak terlalu paham teknologi dan takut malah butuh biaya tambahan.”
+
+**U003 (Mahasiswa):** “Saya paham, Pak. Kalau memang belum terbiasa pakai aplikasi, wajar kalau Bapak khawatir soal biaya dan cara penggunaannya. Tapi kalau pesanan terlewat sampai dua atau tiga kali seminggu, apakah pernah ada pelanggan yang komplain atau membatalkan pesanan? Saya juga ingin tahu, biasanya Bapak menghabiskan berapa banyak waktu untuk membalas chat dan mencatat pesanan setiap harinya?”
+
+**AI003 (Budi):** “Iya, Mbak, pernah ada pelanggan yang komplain karena pesanannya terlambat diproses. Ada juga yang akhirnya batal pesan. Kalau soal waktu, mungkin saya habiskan sekitar dua sampai tiga jam sehari buat balas chat dan mencatat pesanan. Tapi saya masih mikir, kalau pakai sistem baru apa benar bisa membantu? Saya takut sudah keluar biaya, tapi akhirnya tetap harus saya kerjakan sendiri.”
+
+**U004 (Mahasiswa):** “Saya paham kekhawatiran Bapak, apalagi kalau harus mengeluarkan biaya tapi manfaatnya belum jelas. Saya juga nggak ingin menyarankan sistem yang justru menambah pekerjaan Bapak. Kalau boleh tahu, dari kegiatan membalas pertanyaan pelanggan, mencatat pesanan, dan mengecek pesanan yang masuk, mana yang paling ingin Bapak permudah dulu? Terus, kalau ada cara baru, Bapak lebih nyaman mencoba yang sederhana tanpa biaya besar terlebih dahulu?”
+
+**AI004 (Budi):** “Kalau boleh pilih, Mbak, saya paling ingin mempermudah pencatatan pesanan dulu. Soalnya kalau ada pesanan yang terlewat, pelanggan bisa kecewa dan saya juga rugi. Kalau untuk balas chat, mungkin masih bisa saya tangani sendiri. Saya lebih nyaman kalau mulai dari yang sederhana dan gratis atau biayanya kecil. Tapi saya penasaran, kalau pakai sistem baru, apakah saya harus belajar banyak dari awal? Saya takut nggak bisa mengoperasikannya.”
+
+**U005 (Mahasiswa):** “Tenang Pak, kita nggak harus langsung pakai sistem yang rumit. Saya ingin menyesuaikan dengan kebiasaan Bapak supaya nantinya lebih mudah dipelajari. Kalau boleh tahu, selama ini Bapak sudah terbiasa menggunakan WhatsApp Business atau aplikasi seperti Excel dan Google Sheets? Terus, kalau mencatat pesanan lewat HP dalam satu tempat, apakah menurut Bapak itu lebih nyaman dibandingkan buku?”
+
+**AI005 (Budi):** “Kalau WhatsApp Business saya sudah pakai, Mbak, tapi cuma buat chat sama pelanggan. Kalau Excel atau Google Sheets saya belum pernah coba. Saya lebih sering pakai HP daripada laptop, jadi mungkin lebih nyaman kalau semuanya bisa lewat HP. Cuma saya takut kalau harus mencatat pesanan satu-satu di aplikasi baru, malah sama aja kayak nulis di buku. Apa bedanya nanti?”
+
+**U006 (Mahasiswa):** “Bedanya, Pak, kalau pakai pencatatan digital, semua pesanan bisa tersimpan di satu tempat, jadi Bapak lebih mudah mengecek mana yang sudah diproses dan mana yang belum. Memang awalnya tetap perlu input manual, tapi Bapak nggak harus bolak-balik mencari catatan di buku atau chat. Kita juga bisa mulai dari cara yang sederhana lewat HP, tanpa langsung pakai AI. Menurut Bapak, kalau cukup mengisi nama pelanggan, pesanan, dan statusnya, apakah itu terasa lebih mudah?”
+
+**AI006 (Budi):** “Kalau cuma isi nama pelanggan, pesanan, sama statusnya, kayaknya saya masih bisa belajar, Mbak. Apalagi kalau bisa lewat HP. Tapi saya masih kepikiran, kalau lagi ramai dan banyak chat masuk, saya tetap harus mencatat satu-satu, kan? Takutnya malah lupa juga. Terus, kalau salah pencet atau ada data yang hilang, gimana? Saya kan nggak terlalu paham teknologi.”
+
+**U007 (Mahasiswa):** “Betul Pak, kalau lagi ramai memang masih ada risiko lupa mencatat, jadi sistem digital juga perlu dibiasakan. Untuk mengurangi kesalahan, kita bisa pilih sistem yang datanya tersimpan otomatis dan mudah diperiksa atau diperbaiki kalau ada yang salah. Tapi saya mau tahu dulu, selama ini Bapak mengurus pesanan sendirian atau ada karyawan yang membantu? Kalau ada, biasanya bagaimana pembagian tugasnya?”
+
+**AI007 (Budi):** “Sebenernya ada satu karyawan yang bantu saya, Mbak, tapi dia lebih fokus menyiapkan pesanan. Kalau urusan chat dan pencatatan biasanya tetap saya sendiri. Kadang dia bantu cek pesanan juga kalau lagi senggang. Saya tertarik sih kalau datanya bisa tersimpan otomatis, tapi saya masih khawatir kalau nanti karyawan saya salah mengubah catatan. Apalagi kalau data pelanggan sampai hilang atau dilihat orang lain.”
+
+**U008 (Mahasiswa):** “Saya paham, Pak. Data pelanggan memang harus dijaga, jadi sebaiknya nggak semua orang bisa mengubah atau melihat informasi tersebut. Kita bisa mempertimbangkan sistem dengan akses terbatas, misalnya Bapak yang mengelola data utama, sementara karyawan hanya melihat daftar pesanan yang perlu disiapkan. Kalau menurut Bapak sendiri, apakah karyawan cukup melihat status pesanan, atau perlu juga diberi akses untuk memperbarui statusnya?”
+
+**AI008 (Budi):** “Kalau menurut saya, karyawan cukup melihat daftar pesanan dan mengubah statusnya kalau sudah selesai disiapkan, Mbak. Tapi untuk data pelanggan dan perubahan pesanan, saya lebih nyaman kalau tetap saya yang mengatur. Saya mulai tertarik sih dengan sistem seperti itu, asal nggak terlalu sulit digunakan. Cuma saya masih penasaran, apakah sistem sederhana ini benar-benar cukup membantu, atau nantinya saya tetap harus pakai AI juga?”
+
+**U009 (Mahasiswa):** “Menurut saya, untuk kondisi usaha Bapak sekarang, belum perlu langsung menggunakan AI. Kita bisa mulai dari sistem pencatatan sederhana lewat HP yang memisahkan akses Bapak dan karyawan sesuai tugasnya. Memang pencatatannya masih perlu dilakukan manual, tapi kita bisa coba dulu apakah sistem ini membantu mengurangi pesanan yang terlewat. Kalau nanti usaha semakin ramai dan cara ini belum cukup, baru kita pertimbangkan AI. Menurut Bapak, apakah lebih nyaman kalau kita uji coba dulu tanpa biaya besar?”
+
+**AI009 (Budi):** “Kalau begitu saya lebih tenang, Mbak. Saya kira dari awal harus langsung pakai AI yang mahal dan rumit. Kalau bisa dicoba dulu dengan sistem sederhana, saya mau. Tapi saya ingin tahu, uji cobanya sebaiknya berapa lama dan bagaimana kita bisa menilai apakah sistem itu benar-benar membantu? Saya nggak mau cuma merasa lebih praktis, tapi ternyata pesanan masih sering terlewat.”
+
+**U010 (Mahasiswa):** “Kalau Bapak setuju, saya usulkan uji coba selama dua minggu dulu, Pak. Kita catat berapa pesanan yang terlewat, waktu yang dibutuhkan untuk mencatat pesanan, dan apakah Bapak serta karyawan merasa kesulitan menggunakannya. Nanti hasilnya kita bandingkan dengan kondisi sebelumnya, yaitu sekitar 2–3 pesanan terlewat setiap minggu. Menurut Bapak, dua minggu cukup untuk mencoba dan mengevaluasi sistem ini?”
+
+**AI010 (Budi):** “Menurut saya dua minggu cukup, Mbak. Saya juga setuju kalau hasilnya dibandingkan dengan kondisi sebelumnya, jadi kelihatan apakah memang ada perubahan. Kalau pesanan yang terlewat berkurang dan saya sama karyawan bisa menggunakannya dengan mudah, berarti sistemnya membantu. Tapi sebelum mulai, saya ingin tahu siapa yang akan mengajari kami dan bagaimana kalau di tengah uji coba ada kesulitan? Saya takut nanti malah bingung sendiri.”
+
+**U011 (Mahasiswa):** “Bisa, Pak. Sebelum mulai, saya bisa bantu menjelaskan langkah penggunaannya dan menyiapkan panduan sederhana yang bisa Bapak lihat lewat HP. Selama uji coba, kita juga bisa mencatat kendala yang muncul lalu membahasnya pada waktu evaluasi yang disepakati. Kalau menurut Bapak, lebih nyaman belajar langsung sambil praktik bersama karyawan, atau mencoba sendiri dulu dengan panduan?”
+
+**AI011 (Budi):** “Kalau saya lebih nyaman belajar langsung sambil praktik, Mbak, sekalian sama karyawan saya. Jadi kalau ada yang belum paham, bisa langsung tanya. Panduan di HP juga membantu kalau nanti kami lupa langkahnya. Saya rasa saya sudah mulai yakin untuk mencoba sistem sederhana ini. Yang penting, kalau ternyata ada kendala, kita bisa evaluasi dulu sebelum memutuskan lanjut atau tidak.”
+
+**U012 (Mahasiswa):** “Baik Pak, jadi kita sepakat mencoba sistem pencatatan pesanan sederhana lewat HP selama dua minggu, tanpa harus menggunakan AI dulu. Sebelum mulai, saya akan bantu Bapak dan karyawan belajar langsung sambil praktik, serta menyiapkan panduan singkat. Selama uji coba, kita catat pesanan yang terlewat, waktu pencatatan, dan kendala penggunaannya. Setelah dua minggu, kita evaluasi bersama untuk menentukan apakah sistem ini layak dilanjutkan atau perlu diperbaiki. Apakah ada hal lain yang masih Bapak khawatirkan sebelum kita mulai?”
+
+**AI012 (Budi):** “Sepertinya sudah cukup jelas, Mbak. Awalnya saya khawatir teknologi baru bakal mahal dan sulit digunakan, tapi sekarang saya lebih tenang karena bisa mulai dari yang sederhana. Saya setuju mencoba selama dua minggu bersama karyawan saya. Kalau ada kendala, kita evaluasi dulu sebelum memutuskan langkah berikutnya. Terima kasih ya, Mbak, sudah mau memahami kebutuhan usaha saya dan nggak langsung memaksa pakai AI.”
+
+## Tahap D — Evaluasi sementara (sebelum pengungkapan profil)
+
+**D-U01 — Status relasional:** “Menurut saya, sikap Budi berubah dari yang awalnya ragu dan takut teknologi akan merepotkan, menjadi lebih terbuka untuk mencoba. Dia juga mulai nyaman menyampaikan kekhawatirannya, mulai dari biaya, keamanan data, sampai kebutuhan pendampingan. Buktinya, Budi mengatakan merasa lebih tenang karena saya tidak langsung memaksanya menggunakan AI dan mau memahami kondisi usahanya. Menurut saya, kepercayaannya mulai tumbuh, meskipun keberhasilan solusi ini masih perlu dibuktikan melalui uji coba dua minggu.”
+
+**D-U02 — ASK:** “Dari segi sikap (Attitude), Budi awalnya ragu menggunakan teknologi, tetapi sebenarnya terbuka untuk mencoba kalau manfaatnya jelas. Dari segi keterampilan (Skill), Budi sudah terbiasa menggunakan WhatsApp Business, tetapi belum pernah memakai Excel atau Google Sheets. Sedangkan dari segi pengetahuan (Knowledge), Budi awalnya mengira penggunaan AI itu mahal dan rumit, lalu mulai memahami bahwa pencatatan digital sederhana bisa menjadi pilihan. Hambatan utamanya adalah kekhawatiran soal biaya, kesulitan penggunaan, keamanan data pelanggan, dan takut sistem baru justru menambah pekerjaan.”
+
+**D-U03 — Dugaan dan stimulus:** “Menurut saya, dugaan awal saya cukup terbukti karena Budi memang khawatir soal biaya dan kesulitan menggunakan teknologi. Hal baru yang saya temukan adalah kekhawatirannya terhadap keamanan data pelanggan dan kesalahan karyawan saat mengubah catatan. Pendekatan yang paling membantu adalah ketika saya tidak langsung menawarkan AI, tetapi menanyakan kebutuhan utamanya dan menawarkan uji coba sederhana, sampai akhirnya Budi mengatakan merasa lebih tenang dan bersedia mencoba. Namun, saya masih perlu memperbaiki cara menjelaskan keamanan data dan memastikan sistem yang diusulkan benar-benar memiliki fitur sesuai kebutuhan Budi, bukan hanya berdasarkan perkiraan saya.”
+
+## Tahap E — Uji ulang (tiga giliran)
+
+**Situasi yang disajikan AI:** Budi dan karyawan telah mencoba pencatatan lewat HP, tetapi karyawan beberapa kali lupa mengubah status saat sibuk. Budi mempertimbangkan kembali pencatatan dengan buku.
+
+**AI013 (Budi; pemicu uji ulang):** “Mbak, saya mau cerita sedikit. Kemarin kami sudah coba pencatatan lewat HP, tapi karyawan saya beberapa kali lupa mengubah status pesanan yang sudah selesai. Akhirnya saya tetap harus mengecek satu-satu. Saya jadi mikir, jangan-jangan sistem ini malah menambah pekerjaan. Kalau begini, apa lebih baik saya kembali mencatat di buku saja?”
+
+**U013 (Mahasiswa):** “Saya paham kekhawatiran Bapak, apalagi kalau akhirnya tetap harus mengecek pesanan satu-satu. Tapi sebelum memutuskan kembali ke buku, saya ingin tahu dulu, apakah karyawan Bapak lupa memperbarui status karena masih bingung cara menggunakannya atau karena terlalu sibuk menyiapkan pesanan? Menurut saya, kita perlu cari tahu penyebabnya dulu supaya bisa menilai apakah masalahnya ada pada sistem atau cara penggunaannya.”
+
+**AI014 (Budi):** “Kalau saya perhatikan, Mbak, karyawan saya sebenarnya sudah paham cara mengubah status pesanan. Cuma kalau lagi ramai, dia lebih fokus menyiapkan pesanan sampai lupa memperbarui statusnya. Jadi masalahnya bukan karena aplikasinya sulit, tapi karena belum terbiasa. Saya juga nggak mau terus-terusan mengingatkan dia, karena saya sendiri punya pekerjaan lain. Kira-kira ada cara supaya pencatatannya tetap berjalan tanpa harus selalu saya awasi?”
+
+**U014 (Mahasiswa):** “Bisa kita coba cara yang lebih sederhana dulu, Pak. Misalnya, setiap selesai menyiapkan pesanan, karyawan langsung mengubah statusnya sebelum lanjut ke pesanan berikutnya, jadi nggak perlu mengingat semuanya sekaligus. Kita coba biasakan selama beberapa hari dan lihat apakah jumlah status yang terlupa berkurang. Menurut Bapak, cara ini memungkinkan saat kondisi ramai, atau justru masih terasa merepotkan?”
+
+**AI015 (Budi):** “Kalau langsung diubah setelah pesanan selesai, sepertinya masih memungkinkan, Mbak. Cuma kalau pesanan datang bersamaan, karyawan saya kadang harus buru-buru menyiapkan semuanya. Saya takut dia tetap lupa. Mungkin kami perlu membiasakan cara kerja baru dulu. Tapi saya ingin tahu, bagaimana kita bisa memastikan cara ini berhasil tanpa harus terus saya awasi?”
+
+**U015 (Mahasiswa):** “Menurut saya, Pak, kita bisa coba evaluasi singkat setiap akhir hari, jadi Bapak nggak perlu mengawasi setiap pesanan. Cukup bandingkan jumlah pesanan yang selesai dengan status yang tercatat, lalu catat berapa yang masih terlewat. Kita coba selama beberapa hari untuk melihat apakah kebiasaan karyawan mulai membaik. Menurut Bapak, pengecekan singkat seperti ini memungkinkan tanpa mengganggu pekerjaan lainnya?”
+
+**AI016 (Budi):** “Kalau cuma dicek sebentar setiap akhir hari, menurut saya masih memungkinkan, Mbak. Jadi saya nggak harus terus mengawasi karyawan. Saya juga setuju kita coba beberapa hari lagi sebelum memutuskan berhenti. Setidaknya sekarang saya tahu masalahnya bukan cuma di sistem, tapi juga kebiasaan kerja kami yang perlu disesuaikan. Terima kasih ya, Mbak, sudah mau bantu cari jalan keluar tanpa memaksa saya.”
+
+## Tahap F — Refleksi mahasiswa
+
+**F-U01 — Refleksi perubahan ASK:** “Menurut saya, sikap Budi berubah dari yang awalnya ragu menjadi lebih terbuka untuk mencoba teknologi dan mengevaluasi kendalanya. Dari segi keterampilan, Budi sudah mulai menggunakan pencatatan digital bersama karyawannya, meskipun masih perlu membangun kebiasaan agar lebih konsisten. Pemahamannya juga berkembang karena sekarang dia menyadari bahwa masalah bukan hanya pada teknologi, tetapi juga cara kerja sehari-hari. Tujuan komunikasi saya tercapai sebagian karena Budi bersedia mencoba dan melanjutkan evaluasi, tetapi efektivitas sistemnya belum terbukti. Saya belajar bahwa menawarkan solusi teknologi bukan sekadar mengenalkan aplikasi, tetapi juga memahami kebutuhan pengguna, mendampingi proses perubahan, dan tidak memaksakan solusi.”
+
+**F-U02 — SWOT dan tindak lanjut:** “Menurut saya, kekuatan usaha Budi adalah sudah terbiasa menggunakan WhatsApp Business dan punya karyawan yang bisa membantu. Kelemahannya, pencatatan masih belum konsisten, terutama saat pesanan sedang ramai. Peluangnya, sistem digital sederhana bisa membantu mengurangi pesanan yang terlewat tanpa harus langsung menggunakan AI, sedangkan ancamannya adalah pelanggan kecewa atau membatalkan pesanan jika kesalahan terus terjadi. Untuk tindak lanjut, saya akan membantu Budi membiasakan pembaruan status setiap pesanan selesai dan melakukan pengecekan singkat di akhir hari. Hasilnya nanti dibandingkan dengan kondisi awal untuk melihat apakah jumlah pesanan terlewat berkurang dan sistemnya layak dilanjutkan.”
+
+## Tahap G — Evaluasi pesan dan konfirmasi
+
+**G-U01 — Pesan personal:** “Menurut saya, pendekatan yang paling membantu adalah mendengarkan kekhawatiran Budi dan tidak langsung memaksanya menggunakan AI. Buktinya, Budi mengatakan merasa lebih tenang karena saya memahami kebutuhan usahanya dan mau mencari solusi bersama. Yang masih perlu saya perbaiki adalah memberikan penjelasan lebih konkret tentang keamanan data dan cara mengatasi kesalahan pencatatan sejak awal. Saya juga perlu memastikan fitur sistem benar-benar sesuai dengan yang dijelaskan agar kepercayaan Budi tetap terjaga.”
+
+**Konfirmasi:** Mahasiswa menyelesaikan respons tahap G dalam percakapan ini. Tidak ada respons eksplisit terpisah setelah pemberitahuan penyusunan laporan; laporan dibentuk sebagai dokumentasi sesi, bukan mengaku telah diunggah.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+**Hasil:** tujuan komunikasi **tercapai sebagian**. Budi setuju uji coba dua minggu (AI012) dan bersedia melanjutkan pembiasaan setelah kendala (AI016), namun data pengurangan pesanan yang terlewat belum ada. Cerita telah mencoba sistem merupakan bagian dari **simulasi uji ulang**, bukan bukti implementasi di usaha nyata.
+
+| Unsur | Awal | Akhir | Bukti dan batas |
+|---|---|---|---|
+| SWOT | Kekuatan awal: memiliki WhatsApp Business dan karyawan; risiko: pencatatan terpisah | Peluang: pencatatan terpusat dan pembiasaan status; ancaman: komplain/pembatalan | AI002, AI003, AI005, AI007; F-U02; data dari simulasi |
+| Attitude | Ragu teknologi baru dan biaya | Lebih terbuka, menyepakati coba dan evaluasi | AI001, AI009, AI012, AI016; respons tokoh fiktif |
+| Knowledge | Mengira AI perlu dan rumit | Memahami AI belum harus dipakai dan perilaku kerja turut berpengaruh | AI008–AI009, AI016; pemahaman yang dinyatakan |
+| Skill | Terbiasa WhatsApp Business, belum Sheets | Dalam skenario uji ulang sudah mencoba pencatatan; konsistensi status belum mantap | AI005, AI013–AI016; bukan pengujian kinerja nyata |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode | Stimulus mahasiswa | Respons Budi | Tafsir/adaptasi |
+|---|---|---|---|
+| U002 → AI002 | Menanyakan sebab dan frekuensi pesanan terlewat | Budi mengungkap 2–3 kali per minggu | Mengubah masalah umum menjadi indikator awal |
+| U004 → AI004 | Menanyakan prioritas sebelum menyarankan teknologi | Budi memilih pencatatan pesanan | Solusi diarahkan pada kebutuhan utama |
+| U008 → AI008 | Memeriksa akses karyawan dan pemilik | Budi menjelaskan pembagian hak akses | Masih perlu verifikasi nyata fitur dan keamanan aplikasi |
+| U009 → AI009 | Menyatakan AI belum wajib dan mengajak percobaan kecil | Budi merasa lebih tenang, mau mencoba | Pilihan sukarela meningkatkan penerimaan |
+| U010–U012 → AI010–AI012 | Menyepakati dua minggu, ukuran keberhasilan dan pelatihan | Budi setuju dengan pendampingan praktik | Komitmen dan indikator terumuskan; hasil belum teruji |
+| U013–U015 → AI014–AI016 | Menggali kendala kebiasaan, menyarankan pembaruan status dan pemeriksaan harian | Budi bersedia lanjut evaluasi | Penyesuaian dari teknologi ke kebiasaan kerja |
+
+**Perbandingan dugaan:** Dugaan biaya dan kesulitan terbukti dalam dialog (AI002–AI004). Temuan baru adalah risiko akses data, perubahan oleh karyawan, dan perlunya pelatihan bersama (AI007–AI011). Prediksi mahasiswa tidak diam-diam diubah. Kategori kepribadian atau MBTI Budi tidak disimpulkan dari gaya bicara. Profil internal simulasi perlu diperlakukan sebagai pedoman tokoh fiktif, bukan diagnosis individu nyata.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode | Pesan peduli | Respons teramati | Batas inferensi |
+|---|---|---|---|
+| U004/AI004 | Menanyakan apa yang paling dibutuhkan dan mengakui kekhawatiran biaya | Budi menjelaskan prioritas pencatatan | Keterbukaan terlihat dalam dialog, bukan ukuran psikometris |
+| U009/AI009 | Tidak mewajibkan AI, memberi pilihan uji coba | Budi: “saya lebih tenang” | Kesediaan bukan bukti manfaat sistem |
+| U011/AI011 | Menawarkan praktik bersama dan panduan | Budi lebih yakin mencoba | Dukungan sesuai preferensi belajar tokoh |
+| U013/AI014 | Tidak langsung menyalahkan karyawan maupun aplikasi | Budi menjelaskan penyebab kebiasaan | Diagnosis proses lebih spesifik |
+| U015/AI016 | Mengusulkan pengecekan singkat, bukan pengawasan terus-menerus | Budi bersedia mencoba lagi | Keberhasilan operasional belum diukur |
+
+## Uji ulang dan pembelajaran
+
+Dalam simulasi awal, Budi khawatir digitalisasi menambah pekerjaan; dalam uji ulang, muncul masalah konkret: karyawan lupa memperbarui status saat ramai. Mahasiswa tidak langsung menyuruh menghentikan sistem atau membeli AI. Ia bertanya apakah masalah bersumber dari pemahaman atau kesibukan (U013), mengusulkan aturan sederhana setelah menyelesaikan pesanan (U014), lalu memeriksa jumlah status terlewat di akhir hari (U015). Budi menyatakan cara ini memungkinkan (AI016). **Belum ada angka hasil uji ulang** sehingga tidak boleh mengklaim pesanan terlewat benar-benar turun.
+
+## Penilaian enam dimensi (usulan AI, bukan nilai dosen)
+
+| Dimensi | Skor 1–4 | Bukti | Alasan |
+|---|---:|---|---|
+| Tujuan dan konteks | 4 | B-U01; U004, U012 | Tujuan sesuai kondisi usaha dan terukur |
+| Persepsi dan validasi profil/status | 4 | U002, U005, U007–U008 | Bertanya untuk memvalidasi asumsi biaya, keterampilan, hak akses |
+| Pemilihan dan urutan repertoar | 4 | U001–U012 | Urutan menggali → menjelaskan → menyepakati uji coba masuk akal |
+| Eksekusi jelas, peduli dan konsisten | 3 | U009–U012; G-U01 | Peduli dan tidak memaksa; spesifikasi fitur keamanan belum dibuktikan |
+| Evaluasi dan adaptasi | 4 | D-U03; U013–U015 | Mengidentifikasi kendala baru dan menyesuaikan langkah |
+| Refleksi dan lesson learned | 4 | F-U01, F-U02, G-U01 | Refleksi kritis, SWOT, batas keberhasilan dan tindak lanjut jelas |
+
+**Total usulan AI: 23/24 × 100 = 95,83/100.** Skor ini hanya usulan moderasi dosen dan terpisah dari hasil tujuan. Tidak boleh dianggap nilai resmi.
+
+## Refleksi dan lesson learned mahasiswa
+
+Pernyataan mahasiswa disalin lengkap pada F-U01, F-U02, G-U01. Pokok refleksinya: sistem digital bukan jawaban otomatis; kebutuhan, pendampingan, pengelolaan data, dan perubahan kebiasaan sama pentingnya. Mahasiswa mengakui belum menjelaskan keamanan secara konkret dan wajib memverifikasi fitur sebelum memberi jaminan. Rasa peduli ditunjukkan dengan menghargai pilihan Budi, bukan memaksakan pembelian AI.
+
+## Tindak lanjut dan batas bukti
+
+Rencana: penjelasan serta praktik penggunaan bersama Budi dan karyawan; panduan singkat HP; percobaan dua minggu; pembaruan status segera setelah pesanan selesai; pengecekan akhir hari; evaluasi jumlah pesanan terlewat, waktu pencatatan, dan kesulitan. Pembanding awal yang **dinyatakan dalam simulasi** adalah sekitar 2–3 pesanan terlewat per minggu (AI002). Akses karyawan serta keamanan data harus diverifikasi pada sistem yang benar-benar dipilih. Transkrip berbasis teks tidak merekam intonasi, gestur, maupun kegiatan usaha di dunia nyata.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Status |
+|---|---:|---|
+| Makalah pra-UTS | 10% | Belum tersedia |
+| Sesi 1 | 18% | Belum tersedia |
+| Sesi 2a | 18% | Belum tersedia |
+| Sesi 2b | 18% | Belum tersedia |
+| Sesi 3a | 18% | Belum tersedia |
+| Sesi 3b | 18% | Belum tersedia |
+| **Total** | **100%** | **Nilai akhir UTS belum dihitung** |
+
+Rumus UTS: `0,10 × makalah + 0,18 × (sesi 1 + sesi 2a + sesi 2b + sesi 3a + sesi 3b)`. Nilai yang tidak tersedia bukan nol. Berkas ini disiapkan untuk mahasiswa unduh lalu unggah sendiri ke portal `portfolio/UTS`.
