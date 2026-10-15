@@ -19,7 +19,7 @@ execute:
 | NIM | 18225101 |
 | Kelas | K1 |
 | Tanggal pelaksanaan | 15 Oktober 2026 |
-| Nomor/judul kasus | Sesi 1; Kasus 1 — Memimpin diri dan terus belajar |
+| Nomor/judul kasus | Sesi 2a; Kasus 2 — Persahabatan dan profesionalitas; urutan 2 dari 5 sesi |
 | Target utama | Diri mahasiswa |
 | Tokoh pembanding | Budi, K1-02; tokoh fiktif |
 | Versi bank/paket | Bank 2.0; paket individual 2.0 |
