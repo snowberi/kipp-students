@@ -15,17 +15,17 @@ execute:
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | Natasha Aurellia |
-| NIM | 18225101 |
-| Kelas | K1 |
+| Nama mahasiswa | Natasha Aurellia (identitas dikonfirmasi dalam percakapan lintas sesi UTS) |
+| NIM | 18225101 (dikonfirmasi dalam percakapan lintas sesi UTS) |
+| Kelas dan tanggal | K1 (dikonfirmasi dalam percakapan lintas sesi); percakapan sesi 2a tanggal 15 Oktober 2026, WIB |
 | Nomor/judul kasus | Sesi 2a; Kasus 2 — Persahabatan dan profesionalitas; urutan 2 dari 5 sesi |
 | Nama dan ID target | Elsa (K2-05) |
 | Versi bank/aturan penugasan | Bank 2.0; paket individual 2.0; PENUGASAN.md dalam kasus_2a_18225101.zip |
 | Metode penugasan | Dipilih acak tanpa pengulangan di dalam kasus dan ditetapkan saat paket dibuat; tidak dilakukan pemilihan ulang |
 | Modalitas | Teks (Chat); bukan transkripsi suara |
 | Kasus nyata/fiktif | Fiktif (simulasi); uji ulang bersifat hipotetis |
-| Kelengkapan transkrip | Seluruh giliran sesi yang tersedia, sejak permintaan pertukaran peran hingga evaluasi penutup, disalin pada bagian C. Tahap konfirmasi G belum berlangsung; tidak dibuatkan dialog pengganti. |
-| Status laporan | Draf untuk konfirmasi identitas, kelas, tujuan, hasil, dan refleksi. Belum dinyatakan final sesuai tahap G. |
+| Kelengkapan transkrip | Seluruh giliran sesi yang tersedia, sejak permintaan pertukaran peran hingga evaluasi penutup, disalin pada bagian C. Tahap konfirmasi G tidak tercatat dalam transkrip sesi 2a; tidak dibuatkan dialog pengganti. Identitas telah dikonfirmasi secara terpisah pada rangkaian UTS. |
+| Status laporan | Versi revisi administratif untuk portofolio: identitas dan kelas telah dilengkapi. Konfirmasi tahap G khusus sesi 2a belum terdokumentasi; batas ini dipertahankan secara terbuka. |
 
 # B) Kasus dan Tujuan
 
@@ -360,7 +360,7 @@ Belum ada bukti pelaksanaan langkah-langkah tersebut. Teks tidak mengukur prosod
 
 ### Konfirmasi laporan
 
-Nama dan NIM berasal dari PENUGASAN.md. Mahasiswa sudah berpartisipasi sebagai Natasha, tetapi belum memberikan konfirmasi eksplisit nama/NIM dan kelas. Tujuan, hasil, dan refleksi dalam draf ini perlu dikonfirmasi pada tahap G sebelum status final diberikan. Tidak ada kalimat persetujuan mahasiswa yang dibuat oleh AI.
+Nama dan NIM berasal dari PENUGASAN.md dan telah dikonfirmasi mahasiswa dalam percakapan UTS lintas sesi; kelas **K1** juga telah dikonfirmasi. Pada 15 Oktober 2026 mahasiswa meminta penyempurnaan berkas final untuk portofolio. Konfirmasi administratif ini tidak disajikan sebagai dialog tahap G sesi 2a. **Tahap G khusus sesi 2a tidak terekam dalam transkrip yang tersedia**, sehingga tidak disisipkan ujaran atau persetujuan simulasi yang tidak pernah terjadi. Isi tujuan, hasil, dan refleksi tetap mengacu pada U002–U010; laporan direvisi untuk keperluan portofolio dengan catatan keterbatasan tersebut.
 
 ## Bobot dan nilai akhir UTS
 
@@ -379,7 +379,7 @@ Nama dan NIM berasal dari PENUGASAN.md. Mahasiswa sudah berpartisipasi sebagai N
 ### Catatan fasilitator
 
 - **Nama laporan:** hasil_2a_18225101.qmd.
-- **Status:** draf; seluruh giliran sesi tersedia disalin, tahap G belum dilakukan.
+- **Status:** revisi administratif portofolio; seluruh giliran sesi tersedia disalin, konfirmasi tahap G khusus sesi 2a tidak tercatat.
 - **Target:** Elsa (K2-05), tokoh fiktif; ringkasan profil resmi dipisahkan dari dugaan mahasiswa.
 - **Hasil:** kesepahaman dan komitmen dalam simulasi; pelaksanaan belum diamati.
 - **Keterbatasan asesmen:** profil resmi dibaca setelah sesi, jumlah giliran lebih singkat daripada panduan, dan deskriptor tingkat numerik tidak tersedia.
