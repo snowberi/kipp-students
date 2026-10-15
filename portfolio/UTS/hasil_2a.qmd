@@ -18,20 +18,14 @@ execute:
 | Nama mahasiswa | Natasha Aurellia |
 | NIM | 18225101 |
 | Kelas | K1 |
-| Tanggal pelaksanaan | 15 Oktober 2026 |
 | Nomor/judul kasus | Sesi 2a; Kasus 2 — Persahabatan dan profesionalitas; urutan 2 dari 5 sesi |
-| Target utama | Diri mahasiswa |
-| Tokoh pembanding | Budi, K1-02; tokoh fiktif |
-| Versi bank/paket | Bank 2.0; paket individual 2.0 |
-| Sumber penugasan | PENUGASAN.md dalam kasus_1_18225101.zip |
-| Metode penugasan | Cermin kasus 1; sasaran telah ditetapkan dalam paket, tidak dipilih ulang |
-| Modalitas | Teks |
-| Konteks nyata/fiktif | Pengalaman awal dilaporkan nyata; dialog Budi dan situasi uji ulang bersifat hipotetis |
-| Nama laporan | hasil_1_18225101.qmd |
-| Konfirmasi | Peserta mengonfirmasi identitas dan ringkasan akhir dengan jawaban “sudah”; bukan verifikasi identitas |
-| Kelengkapan transkrip | Seluruh pesan sesi tersedia: 27 pesan peserta dan 27 pesan AI, sejak identifikasi sampai konfirmasi akhir |
-| Status laporan | Identitas, tujuan, transkrip, evaluasi, uji ulang, refleksi dan konfirmasi telah disertakan |
-| Status sesi lain | Sesi 2b, 3a dan 3b belum dijalankan dalam sesi ini |
+| Nama dan ID target | Elsa (K2-05) |
+| Versi bank/aturan penugasan | Bank 2.0; paket individual 2.0; PENUGASAN.md dalam kasus_2a_18225101.zip |
+| Metode penugasan | Dipilih acak tanpa pengulangan di dalam kasus dan ditetapkan saat paket dibuat; tidak dilakukan pemilihan ulang |
+| Modalitas | Teks (Chat); bukan transkripsi suara |
+| Kasus nyata/fiktif | Fiktif (simulasi); uji ulang bersifat hipotetis |
+| Kelengkapan transkrip | Seluruh giliran sesi yang tersedia, sejak permintaan pertukaran peran hingga evaluasi penutup, disalin pada bagian C. Tahap konfirmasi G belum berlangsung; tidak dibuatkan dialog pengganti. |
+| Status laporan | Draf untuk konfirmasi identitas, kelas, tujuan, hasil, dan refleksi. Belum dinyatakan final sesuai tahap G. |
 
 # B) Kasus dan Tujuan
 
