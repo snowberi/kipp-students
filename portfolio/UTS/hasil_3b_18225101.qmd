@@ -1,0 +1,243 @@
+---
+title: "Laporan UTS KIPP 2026 — Sesi 3b"
+subtitle: "Kasus 3 — Customer TI/AI"
+author: "Natasha Aurellia (18225101)"
+date: "2026-10-15"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Natasha Aurellia |
+| NIM | 18225101 |
+| Kelas dan tanggal | K1; 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b; Kasus 3 — Customer TI/AI |
+| Nama dan ID target | Fajar (K3-06) |
+| Versi bank/aturan penugasan | Bank 2.0, paket 2.0; `kasus_3b_18225101.zip` |
+| Modalitas | Teks melalui chat AI |
+| Kasus nyata/fiktif | Simulasi fiktif customer Fajar |
+| Kelengkapan transkrip | Seluruh respons mahasiswa dan pemeranan Fajar dalam simulasi serta uji ulang, beserta respons mahasiswa di tahap B, D, F, G. Prompt pengarah tahap oleh chatbot dirangkum; satu pesan yang sempat berulang sebelum U008 dicatat terpisah. |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Fajar adalah customer/pengelola usaha yang meminta manfaat teknologi secara cepat dan terukur. Pesanan masuk melalui WhatsApp, dicatat manual, status pesanan tidak konsisten diperbarui. Mahasiswa ingin memahami masalah inti, menawarkan langkah praktis yang tidak otomatis mengharuskan AI, dan menyepakati indikator uji coba. Hasil yang diharapkan ialah keputusan berbasis data yang tidak menambah beban kerja.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Kekuatan: mau menggali persoalan; risiko: informasi kebutuhan belum lengkap; peluang: solusi terukur; ancaman: waktu customer terbatas | B-U01–B-U03 | Interpretasi rencana |
+| Attitude | Tidak ingin langsung menjual AI; menghargai waktu customer | B-U01 | Pernyataan diri |
+| Knowledge | Memahami perlunya ukuran keberhasilan dan klarifikasi kebutuhan | B-U01, B-U03 | Pernyataan diri |
+| Skill | Merencanakan pertanyaan singkat dan contoh praktis | B-U03 | Rencana, belum demonstrasi |
+| Preferensi/MBTI | Tidak dinyatakan mahasiswa | — | Tidak diketahui |
+| Karakter/peran/kultur | Mahasiswa sebagai calon penyedia solusi TI/AI untuk pengelola usaha | Penugasan | Konteks simulasi |
+
+## Dugaan awal profil target dan rencana
+
+Dugaan awal **sebelum simulasi**: Fajar sibuk, mengutamakan hasil cepat, diduga terbuka terhadap teknologi bila manfaat nyata; pengetahuan AI mungkin ada, tetapi skill belum diketahui (B-U02). Mahasiswa merencanakan membuka pembicaraan dengan manfaat praktis dan satu pertanyaan tentang hambatan utama (B-U03). Ini dugaan, tidak disesuaikan secara retroaktif setelah membaca profil.
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar direncanakan | Bukti diharapkan |
+|---|---|---|---|---|
+| Target | Solusi relevan tanpa paksaan AI | Sikap menghargai pilihan; pemahaman indikator; keterampilan uji coba | Klarifikasi masalah → opsi → uji terbatas | Kesepakatan sukarela |
+| Attention | Waktu terbatas | A: pragmatis | Pembukaan langsung | Fajar menjelaskan hambatan |
+| Interest | Perlu bukti hasil | K: definisi manfaat | Tanya baseline dan target | Data waktu dan keterlambatan |
+| Desire | Ragu manfaat riil | A/K: pahami risiko | Pilihan non-AI, manfaat tidak dijanjikan | Fajar mempertimbangkan |
+| Action | Uji sederhana | S: membagi tugas dan memantau | Batas waktu, indikator, tanggung jawab | Rencana seminggu dan kriteria keputusan |
+
+# C) Skrip Percakapan
+
+**Keterangan:** `B-U` adalah respons mahasiswa pada Tahap B; `U` respons mahasiswa pada simulasi; `AI` respons tokoh Fajar dalam simulasi; `D-U`, `F-U`, `G-U` jawaban mahasiswa pada evaluasi, refleksi, dan konfirmasi. Dialog di bawah merupakan transkrip ucapan yang benar-benar tertulis dalam percakapan; prompt pengarahan fasilitator tidak diklaim sebagai ucapan Fajar.
+
+## Tahap A — Identifikasi
+
+Nama dan NIM dibaca dari paket yang dipakai dan sebelumnya sudah dikonfirmasi oleh mahasiswa, dengan kelas K1. Sesi 3b dimulai sebagai simulasi baru terpisah dari Budi pada sesi 3a.
+
+## Tahap B — Tujuan, dugaan, dan rencana
+**B-U01 — Tujuan (Mahasiswa):** “Tujuan saya adalah memahami masalah utama yang dihadapi Fajar dan menunjukkan manfaat teknologi yang benar-benar sesuai dengan kebutuhannya. Karena Fajar punya waktu terbatas, saya akan menyampaikan penjelasan secara singkat, jelas, dan menggunakan contoh yang praktis. Saya juga ingin menanyakan hasil seperti apa yang dia harapkan, supaya solusi yang ditawarkan tidak asal cocok menurut saya saja. Jadi, fokus saya bukan langsung menjual AI, tetapi membantu Fajar melihat apakah teknologi tersebut memang bermanfaat untuk usahanya.”
+
+**B-U02 — Dugaan awal (Mahasiswa):** “Menurut saya, Fajar mungkin sedang sibuk dan nggak ingin menghabiskan waktu untuk penjelasan yang terlalu panjang. Dari segi sikap (Attitude), saya menduga dia cukup terbuka terhadap teknologi, asalkan manfaatnya jelas dan bisa langsung dirasakan. Dari segi pengetahuan (Knowledge), mungkin dia sudah punya gambaran tentang AI, sedangkan keterampilannya (Skill) dalam menggunakan teknologi belum bisa saya pastikan. Jadi, saya perlu menggali kebutuhannya lewat pertanyaan singkat sebelum menawarkan solusi.”
+
+**B-U02r — Pengulangan jawaban (Mahasiswa):** “Menurut saya, Fajar mungkin sedang sibuk dan nggak ingin menghabiskan waktu untuk penjelasan yang terlalu panjang. Dari segi sikap (Attitude), saya menduga dia cukup terbuka terhadap teknologi, asalkan manfaatnya jelas dan bisa langsung dirasakan. Dari segi pengetahuan (Knowledge), mungkin dia sudah punya gambaran tentang AI, sedangkan keterampilannya (Skill) dalam menggunakan teknologi belum bisa saya pastikan. Jadi, saya perlu menggali kebutuhannya lewat pertanyaan singkat sebelum menawarkan solusi.”
+
+**B-U03 — Rencana awal (Mahasiswa):** “Saya akan membuka percakapan dengan langsung menyampaikan bahwa saya ingin membantu mencari cara agar pekerjaan Fajar lebih efisien, tanpa memberikan penjelasan panjang dulu. Saya akan bertanya, “Kalau boleh tahu, bagian mana dari usaha Bapak yang paling menyita waktu atau sering menimbulkan masalah?” Dari jawabannya, saya bisa menentukan manfaat teknologi yang paling relevan untuk ditunjukkan.”
+
+## Tahap C — Simulasi awal (12 giliran)
+
+**Pembuka Fajar (dari paket):** “Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu.”
+
+**U001 (Mahasiswa):** “Baik, Pak Fajar. Saya langsung ke intinya ya, teknologi bisa membantu menghemat waktu kerja, mengurangi kesalahan, dan membuat pekerjaan lebih teratur. Tapi supaya saya nggak menawarkan sesuatu yang belum tentu Bapak butuhkan, boleh tahu satu hal dulu? Masalah apa yang paling sering menghambat usaha Bapak saat ini?”
+
+**AI001 (Fajar):** “Kalau masalah utama, saya sering kewalahan mengatur pesanan pelanggan, terutama saat sedang ramai. Kadang ada pesanan yang terlambat diproses karena pencatatannya kurang rapi. Tapi saya nggak mau langsung pakai teknologi yang rumit, Mbak. Kalau memang ada solusi, saya ingin tahu seberapa besar manfaatnya dan apakah benar-benar bisa menghemat waktu. Saya lebih tertarik sama hasil yang bisa diukur daripada sekadar penjelasan fitur.”
+
+**U002 (Mahasiswa):** “Baik Pak, berarti masalah utamanya ada di pencatatan pesanan yang kadang terlambat diproses. Kalau boleh tahu, selama ini Bapak mencatat pesanan lewat buku, WhatsApp, atau aplikasi tertentu? Lalu, biasanya berapa pesanan yang terlambat dalam seminggu dan berapa banyak waktu yang ingin Bapak hemat? Dari situ kita bisa ukur apakah solusi yang dicoba benar-benar membantu.”
+
+**AI002 (Fajar):** “Selama ini pesanan masuk lewat WhatsApp, Mbak, terus saya catat manual. Kalau lagi ramai, bisa ada sekitar 4–5 pesanan yang terlambat diproses dalam seminggu. Saya juga menghabiskan hampir dua jam sehari buat mengecek pesanan. Kalau bisa, saya ingin waktu itu berkurang setidaknya setengahnya. Tapi saya mau tahu, solusi yang Mbak tawarkan nanti bisa benar-benar mencapai target itu atau cuma perkiraan?”
+
+**U003 (Mahasiswa):** “Untuk target dari dua jam menjadi satu jam sehari, saya belum bisa menjamin, Pak, karena perlu diuji dulu dengan kondisi usaha Bapak. Tapi kita bisa gunakan angka itu sebagai ukuran keberhasilan, termasuk melihat apakah 4–5 pesanan yang terlambat setiap minggu bisa berkurang. Saya mau tanya, keterlambatan itu biasanya karena pesanan lupa dicatat, catatannya sulit dicari, atau status pesanannya tidak diperbarui?”
+
+**AI003 (Fajar):** “Paling sering karena status pesanan nggak diperbarui, Mbak. Jadi kadang saya harus cek ulang chat satu per satu buat memastikan mana yang sudah diproses dan mana yang belum. Itu yang bikin waktu saya banyak terbuang. Kalau ada sistem yang bisa menunjukkan status pesanan dengan jelas, saya tertarik. Tapi saya ingin tahu, apakah sistem seperti itu harus menggunakan AI atau ada cara yang lebih sederhana?”
+
+**U004 (Mahasiswa):** “Untuk kebutuhan Bapak saat ini, sebenarnya belum harus pakai AI. Kita bisa mulai dari sistem pencatatan sederhana yang menampilkan status pesanan, misalnya baru masuk, diproses, dan selesai. Tapi saya mau tahu dulu, Pak, biasanya siapa yang memperbarui status pesanan, Bapak sendiri atau ada karyawan yang membantu? Soalnya itu penting supaya sistemnya nanti benar-benar mudah dijalankan.”
+
+**AI004 (Fajar):** “Biasanya saya sendiri yang memperbarui status pesanan, Mbak. Ada satu karyawan yang membantu menyiapkan pesanan, tapi dia jarang ikut mencatat. Kalau lagi ramai, saya sering nggak sempat memperbarui statusnya. Saya tertarik kalau karyawan juga bisa bantu, tapi jangan sampai malah menambah pekerjaan. Kalau sistemnya sederhana, apakah kami bisa langsung menggunakannya tanpa pelatihan yang lama?”
+
+**U005 (Mahasiswa):** “Bisa kita usahakan supaya pelatihannya singkat, Pak, tapi tetap perlu dicoba dulu untuk memastikan Bapak dan karyawan nyaman menggunakannya. Kalau boleh tahu, apakah Bapak dan karyawan sudah terbiasa memakai aplikasi di HP selain WhatsApp? Kalau sudah, kita bisa pilih sistem yang tampilannya sederhana dan uji coba langsung dengan beberapa pesanan.”
+
+**AI005 (Fajar):** “Kalau pakai aplikasi di HP, saya sama karyawan sudah cukup terbiasa, Mbak. Jadi sepertinya nggak akan terlalu sulit kalau tampilannya sederhana. Saya juga setuju kalau dicoba pakai beberapa pesanan dulu. Tapi saya ingin tahu, berapa lama uji cobanya dan bagaimana kita bisa memastikan sistem ini benar-benar menghemat waktu? Saya nggak mau cuma pindah dari pencatatan manual ke digital, tapi hasilnya tetap sama.”
+
+**U006 (Mahasiswa):** “Saya usulkan uji coba selama satu minggu dulu, Pak, menggunakan beberapa pesanan sebagai percobaan. Kita catat waktu pengecekan setiap hari dan jumlah pesanan yang terlambat, lalu bandingkan dengan kondisi awal, yaitu dua jam sehari dan 4–5 pesanan terlambat per minggu. Targetnya waktu pengecekan turun menjadi maksimal satu jam sehari tanpa menambah kesalahan. Menurut Bapak, satu minggu cukup untuk melihat hasil awalnya, atau perlu dua minggu supaya lebih meyakinkan?”
+
+**AI006 (Fajar):** “Menurut saya satu minggu cukup untuk melihat hasil awal, Mbak. Kalau hasilnya belum konsisten, baru kita lanjutkan sampai dua minggu. Target satu jam sehari juga jelas, jadi bisa langsung dibandingkan. Tapi saya ingin memastikan satu hal, siapa yang akan mencatat hasil uji coba ini? Saya nggak mau pengukurannya malah menambah pekerjaan saya setiap hari.”
+
+**U007 (Mahasiswa):** “Biar nggak menambah pekerjaan Bapak, kita bisa pakai catatan sederhana yang mencatat waktu mulai dan selesai pengecekan setiap hari, Pak. Karyawan bisa membantu mencatat jumlah pesanan yang terlambat, sementara Bapak cukup memeriksa ringkasannya di akhir hari. Jadi pengukurannya tetap jelas tanpa harus membuat laporan panjang. Menurut Bapak, pembagian seperti ini memungkinkan dilakukan selama uji coba?”
+
+**AI007 (Fajar):** “Menurut saya bisa, Mbak. Kalau cuma mencatat waktu pengecekan dan jumlah pesanan terlambat, itu nggak terlalu merepotkan. Karyawan saya juga bisa bantu. Tapi saya ingin tahu, kalau setelah satu minggu ternyata waktunya cuma turun dari dua jam menjadi satu setengah jam, apakah itu berarti sistemnya gagal? Saya nggak mau buru-buru mengambil keputusan kalau sebenarnya masih bisa diperbaiki.”
+
+**U008 (Mahasiswa):** “Belum tentu gagal, Pak. Kalau dari 2 jam turun jadi 1,5 jam, berarti sudah hemat 30 menit atau 25%, meskipun belum mencapai target 50%. Kita perlu cek juga apakah jumlah pesanan terlambat berkurang dan apa yang masih membuat pengecekan lama. Kalau hasilnya menunjukkan kemajuan, kita bisa perbaiki bagian yang belum efektif lalu uji lagi sebelum memutuskan lanjut atau berhenti.”
+
+**AI008 (Fajar):** “Penjelasannya masuk akal, Mbak. Kalau sudah hemat 25%, berarti memang ada perubahan meskipun belum sesuai target. Saya setuju kita lihat juga jumlah pesanan yang terlambat. Tapi kalau ternyata waktu pengecekan berkurang, sementara pesanan terlambat masih tetap 4–5 kali seminggu, menurut Mbak apa yang harus kita perbaiki lebih dulu? Saya ingin tahu langkah konkretnya.”
+
+**U009 (Mahasiswa):** “Kalau waktu pengecekan sudah berkurang tapi pesanan masih sering terlambat, berarti kita perlu fokus memperbaiki proses pembaruan status pesanan dulu, Pak. Saya ingin cek apakah keterlambatan terjadi karena status lupa diperbarui atau pesanan memang terlambat disiapkan. Kalau masalahnya di pencatatan, kita bisa coba membiasakan karyawan memperbarui status setiap pesanan selesai, lalu pantau hasilnya selama seminggu. Jadi, kita memperbaiki penyebabnya dulu, bukan langsung mengganti sistem.”
+
+**AI009 (Fajar):** “Oke, saya setuju. Berarti kita cari tahu dulu penyebab keterlambatannya, bukan langsung mengganti sistem. Saya suka pendekatan yang seperti itu karena lebih jelas langkahnya. Tapi saya ingin tahu, kalau ternyata karyawan sering lupa memperbarui status saat pesanan ramai, bagaimana cara mengatasinya tanpa menambah pekerjaan? Saya ingin solusi yang praktis dan bisa langsung dicoba.”
+
+**U010 (Mahasiswa):** “Menurut saya, Pak, cara paling praktis adalah membiasakan karyawan langsung mengubah status pesanan begitu selesai disiapkan, cukup satu langkah lewat HP. Supaya nggak lupa saat ramai, kita bisa pasang pengingat kecil di area kerja. Kita coba selama satu minggu dan lihat apakah jumlah pesanan terlambat berkurang dari 4–5 kali. Menurut Bapak, cara ini memungkinkan diterapkan saat pesanan sedang banyak?”
+
+**AI010 (Fajar):** “Menurut saya itu cukup praktis, Mbak. Kalau cuma satu langkah lewat HP dan ada pengingat di area kerja, karyawan saya sepertinya bisa menjalankannya. Saya setuju dicoba selama seminggu. Tapi saya ingin memastikan, siapa yang bertanggung jawab memperbarui status dan siapa yang mengecek hasilnya? Saya nggak mau nanti malah saling mengandalkan.”
+
+**U011 (Mahasiswa):** “Biar jelas, Pak, saya sarankan karyawan bertanggung jawab mengubah status setiap pesanan selesai disiapkan, sementara Bapak cukup mengecek ringkasannya sekali di akhir hari. Kita catat jumlah pesanan yang terlambat dan waktu pengecekannya, jadi nggak perlu membuat laporan tambahan yang rumit. Setelah seminggu, kita bandingkan hasilnya dengan kondisi awal. Apakah pembagian ini cocok dengan alur kerja Bapak dan karyawan?”
+
+**AI011 (Fajar):** “Cocok, Mbak. Pembagiannya jelas dan nggak terlalu merepotkan. Karyawan saya memperbarui status pesanan, sementara saya cukup mengecek hasilnya di akhir hari. Saya juga setuju hasilnya dibandingkan dengan kondisi awal setelah satu minggu. Sejauh ini saya cukup tertarik mencoba sistemnya, karena penjelasan Mbak langsung ke masalah dan ada ukuran keberhasilan yang jelas.”
+
+**U012 (Mahasiswa):** “Baik Pak, jadi kita sepakat uji coba selama satu minggu dengan target waktu pengecekan turun dari 2 jam menjadi 1 jam sehari dan jumlah pesanan terlambat berkurang dari 4–5 kali seminggu. Karyawan bertugas memperbarui status setiap pesanan selesai, sementara Bapak cukup mengecek hasilnya di akhir hari. Setelah seminggu, kita bandingkan hasilnya dengan kondisi awal untuk menentukan apakah sistem perlu diperbaiki atau dilanjutkan. Terima kasih, Pak, sudah mau mencoba.”
+
+**AI012 (Fajar):** “Baik, Mbak. Saya setuju dengan rencana itu. Targetnya jelas, pembagian tugasnya juga sudah ada, dan saya bisa langsung melihat hasilnya setelah satu minggu. Saya suka karena Mbak nggak langsung menawarkan AI yang rumit, tapi fokus ke masalah usaha saya. Kalau hasilnya memang membantu, saya terbuka untuk melanjutkan. Terima kasih, Mbak.”
+
+**Catatan keutuhan percakapan:** Setelah AI007, mahasiswa sekali mengulang tepat teks U007 saat diminta menjawab pertanyaan baru tentang hasil 1,5 jam. Fasilitator menyatakan respons itu merupakan pengulangan dan meminta jawaban untuk Giliran 8. Pesan ulang tersebut tercatat berikut, tetapi **tidak dihitung sebagai giliran simulasi baru**:
+
+**U007-r (Mahasiswa; pengulangan sebelum U008):** “Biar nggak menambah pekerjaan Bapak, kita bisa pakai catatan sederhana yang mencatat waktu mulai dan selesai pengecekan setiap hari, Pak. Karyawan bisa membantu mencatat jumlah pesanan yang terlambat, sementara Bapak cukup memeriksa ringkasannya di akhir hari. Jadi pengukurannya tetap jelas tanpa harus membuat laporan panjang. Menurut Bapak, pembagian seperti ini memungkinkan dilakukan selama uji coba?”
+
+## Tahap D — Evaluasi sementara sebelum pengungkapan profil
+
+**D-U01 — Status relasional (Mahasiswa):** “Menurut saya, sikap Fajar berubah dari yang awalnya terburu-buru dan ragu menjadi lebih terbuka untuk mencoba solusi. Dia mulai percaya karena saya memberikan penjelasan singkat dengan target yang bisa diukur, bukan sekadar menjelaskan fitur AI. Buktinya, Fajar mengatakan suka dengan pendekatan saya yang langsung fokus pada masalah usahanya dan bersedia melakukan uji coba selama seminggu. Namun, kepercayaan itu masih perlu dibuktikan melalui hasil uji coba, karena sistemnya belum benar-benar diterapkan.”
+
+**D-U02 — ASK (Mahasiswa):** “Dari segi sikap (Attitude), Fajar cukup terbuka terhadap teknologi, tetapi ingin melihat manfaat nyata sebelum menggunakannya. Dari segi keterampilan (Skill), dia dan karyawannya sudah terbiasa menggunakan aplikasi di HP, jadi kemungkinan bisa menyesuaikan diri dengan sistem sederhana. Untuk pengetahuan (Knowledge), Fajar mulai memahami bahwa masalah pencatatan pesanan tidak harus diselesaikan dengan AI dan keberhasilan sistem bisa diukur dari waktu kerja serta jumlah keterlambatan. Hambatan utamanya adalah kekhawatiran teknologi malah membuang waktu, menambah pekerjaan, dan tidak memberikan hasil sesuai target.”
+
+**D-U03 — Dugaan dan stimulus (Mahasiswa):** “Menurut saya, dugaan awal saya terbukti karena Fajar memang lebih suka penjelasan singkat dan hasil yang bisa diukur. Hal baru yang saya temukan adalah dia punya target khusus, yaitu mengurangi waktu pengecekan dari 2 jam menjadi 1 jam sehari. Pendekatan yang paling membantu adalah saat saya menggunakan angka konkret dan tidak menjanjikan hasil yang belum terbukti, sehingga Fajar bersedia mencoba sistem selama seminggu. Yang perlu saya perbaiki adalah memastikan cara pencatatan hasil uji coba benar-benar praktis dan tidak menambah beban kerja Fajar.”
+
+## Tahap E — Uji ulang (3 giliran)
+
+**Situasi uji ulang yang diberikan simulator:** Setelah satu minggu uji coba, waktu pengecekan turun dari dua jam menjadi 1,5 jam sehari, tetapi pesanan terlambat tetap 4–5 kali per minggu. Fajar mempertanyakan kelayakan kelanjutan sistem. Angka ini adalah **hasil dalam skenario simulasi**, bukan data lapangan yang diverifikasi.
+
+**Fajar (pemicu uji ulang):** “Mbak, saya sudah lihat hasil uji cobanya. Memang waktu pengecekan berkurang 30 menit, tapi pesanan yang terlambat masih sama. Berarti target kita belum tercapai, kan? Saya nggak mau terus mencoba kalau hasilnya nggak jelas. Menurut Mbak, sistem ini masih layak dilanjutkan atau lebih baik dihentikan?”
+
+**U013 (Mahasiswa):** “Betul Pak, target kita memang belum tercapai. Tapi waktu pengecekan sudah berkurang 30 menit atau 25%, jadi ada kemajuan meskipun pesanan terlambat masih 4–5 kali seminggu. Menurut saya, kita perlu cek dulu kenapa keterlambatannya belum berkurang, lalu coba perbaiki bagian itu selama satu minggu lagi. Kalau setelah diperbaiki hasilnya tetap sama, baru kita pertimbangkan apakah sistem ini layak dilanjutkan atau dihentikan. Bagaimana menurut Bapak?”
+
+**AI013 (Fajar):** “Baik, Mbak. Kalau memang sudah hemat 25%, saya setuju ada kemajuan. Tapi saya cuma mau kasih waktu satu minggu lagi. Dari yang saya perhatikan, karyawan sebenarnya sudah memperbarui status pesanan, tapi kadang terlambat saat pesanan sedang ramai. Saya nggak mau menambah pekerjaan baru atau mengganti sistem lagi. Jadi, apa yang paling perlu kita perbaiki supaya jumlah pesanan terlambat bisa berkurang?”
+
+**U014 (Mahasiswa):** “Menurut saya, Pak, kita fokus memperbaiki waktu pembaruan status pesanan dulu. Kita bisa coba karyawan langsung mengubah status begitu pesanan selesai disiapkan, sebelum beralih ke pesanan berikutnya, tanpa menambah langkah kerja baru. Selama seminggu, kita lihat apakah keterlambatan bisa turun dari 4–5 kali menjadi maksimal 2 kali. Kalau menurut Bapak, cara ini memungkinkan dilakukan saat pesanan sedang ramai?”
+
+**AI014 (Fajar):** “Menurut saya itu masih memungkinkan, Mbak. Karyawan memang sudah biasa mengubah status, cuma kadang menundanya kalau lagi ramai. Kalau langsung diperbarui setelah pesanan selesai, mungkin bisa lebih konsisten. Target maksimal 2 pesanan terlambat juga jelas. Tapi kalau setelah seminggu keterlambatannya masih lebih dari 2 kali, saya ingin kita langsung punya keputusan, bukan terus memperpanjang uji coba.”
+
+**U015 (Mahasiswa):** “Baik Pak, setelah satu minggu kita evaluasi lagi. Kalau keterlambatan turun jadi maksimal 2 pesanan dan waktu pengecekan tetap lebih singkat, sistem bisa dilanjutkan. Kalau ada kemajuan tapi belum mencapai target, kita bahas satu perbaikan terakhir tanpa otomatis memperpanjang uji coba. Tapi kalau keterlambatan tetap 4–5 kali atau pekerjaan justru bertambah, saya sarankan sistem dihentikan dulu dan kita evaluasi penyebabnya. Apakah kriteria ini sesuai dengan harapan Bapak?”
+
+**AI015 (Fajar):** “Ya, saya setuju, Mbak. Kriterianya jelas dan saya suka karena kita punya batas waktu untuk mengambil keputusan. Kalau hasilnya memenuhi target, kita lanjutkan. Kalau belum, kita evaluasi tanpa terus memperpanjang percobaan. Saya merasa waktu saya lebih dihargai karena keputusan kita berdasarkan angka, bukan sekadar janji. Terima kasih, Mbak.”
+
+## Tahap F — Refleksi mahasiswa
+
+**F-U01 — Refleksi ASK dan tujuan (Mahasiswa):** “Menurut saya, sikap Fajar berubah dari yang awalnya ragu menjadi lebih terbuka terhadap teknologi, asalkan manfaatnya bisa dibuktikan. Dari segi keterampilan, Fajar dan karyawannya sudah mulai menggunakan sistem pencatatan, meskipun masih perlu membiasakan pembaruan status tepat waktu. Pemahamannya juga bertambah karena sekarang dia bisa menilai keberhasilan sistem berdasarkan data, bukan hanya perkiraan. Tujuan komunikasi saya tercapai sebagian karena Fajar bersedia mencoba dan sudah menghemat waktu 25%, tetapi target pengurangan keterlambatan belum tercapai. Dari pengalaman ini, saya belajar bahwa komunikasi dengan customer perlu disesuaikan dengan kebutuhannya, dan solusi yang baik harus punya ukuran keberhasilan serta batas evaluasi yang jelas.”
+
+**F-U02 — SWOT dan tindak lanjut (Mahasiswa):** “Menurut saya, kekuatan usaha Fajar adalah dia dan karyawannya sudah terbiasa menggunakan aplikasi di HP serta mau mencoba cara kerja baru. Kelemahannya, pembaruan status pesanan masih sering terlambat saat ramai. Peluangnya, sistem sederhana ini sudah menghemat waktu pengecekan 25%, sedangkan ancamannya adalah pelanggan bisa kecewa kalau pesanan tetap terlambat. Setelah uji coba kedua, saya akan membandingkan waktu pengecekan dan jumlah pesanan terlambat dengan target yang disepakati. Kalau keterlambatan maksimal 2 kali seminggu dan waktu tetap lebih singkat, sistem dilanjutkan, tetapi kalau belum tercapai, kami akan mengevaluasi atau menghentikannya sesuai kesepakatan tanpa terus memperpanjang uji coba.”
+
+## Tahap G — Konfirmasi
+
+**G-U01 — Pesan yang membantu/menghambat (Mahasiswa):** “Menurut saya, pendekatan yang paling membantu adalah memberikan penjelasan singkat, menggunakan angka yang jelas, dan tidak menjanjikan hasil yang belum pasti. Buktinya, Fajar mengatakan waktunya lebih dihargai karena keputusan dibuat berdasarkan data, bukan sekadar janji. Yang masih perlu saya perbaiki adalah memastikan target dan cara evaluasi disepakati sejak awal, supaya tidak perlu terlalu banyak penyesuaian di tengah uji coba. Saya juga belajar bahwa menghargai customer bukan hanya mendengarkan kebutuhannya, tetapi juga memberikan solusi yang praktis dan bisa diukur hasilnya.”
+
+**G-U02 — Persetujuan ringkasan laporan (Mahasiswa):** “setuju”
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan komunikasi **tercapai sebagian**. Fajar setuju memakai uji coba terbatas, memahami indikator penilaian dan memutuskan satu minggu perbaikan tambahan. Dalam *situasi simulasi*, waktu pemeriksaan turun dari 120 menjadi 90 menit (hemat 30 menit atau 25%), tetapi jumlah pesanan terlambat belum turun dari 4–5 kali per minggu. Ini **bukan bukti lapangan nyata** dan belum menunjukkan keberhasilan target bisnis.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| SWOT | Kekuatan pengalaman HP; risiko pencatatan status; peluang efisiensi; ancaman keterlambatan | Peluang hemat waktu 25%; kelemahan pembaruan status masih ada; tindak lanjut berbatas waktu | AI005, AI013, F-U02 | Analisis mahasiswa dan skenario; bukan audit usaha |
+| Attitude | Tidak sabar dan ingin hasil langsung | Bersedia mencoba, tetapi tetap menuntut batas evaluasi | pembuka, AI012, AI015 | Sikap tokoh fiktif dalam simulasi |
+| Knowledge | Belum jelas ukuran keberhasilan dan apakah AI diperlukan | Mengetahui baseline, target, hasil sebagian, kriteria lanjut/berhenti | AI003, AI008, AI013–AI015 | Pemahaman yang dinyatakan tokoh |
+| Skill | Terbiasa memakai aplikasi HP, dokumentasi status belum konsisten | Ada praktik pencatatan dalam cerita uji ulang, tetapi masalah pembaruan status masih ada | AI005, AI013–AI014 | Tidak ada demonstrasi pemakaian aplikasi nyata |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+**Profil simulator baru dilihat untuk kebutuhan laporan setelah simulasi.** Fajar (K3-06) digambarkan pragmatis, mengutamakan demonstrasi singkat dan hasil cepat; preferensi MBTI fiktif ESTP bukan diagnosis. Hambatan A: menginginkan hasil cepat tanpa beban tambahan; K: belum memahami risiko kesalahan otomatis; S: memerlukan demo singkat, checklist, dan fallback. Dugaan mahasiswa awal (B-U02) mengenai keterbatasan waktu dan fokus hasil cocok dengan sebagian profil, tetapi keterampilan belum diketahui hingga AI005. Dalam dialog, demonstrasi aplikasi secara langsung, checklist formal, fallback teknis dan risiko kesalahan otomatis **belum benar-benar dibahas mendalam**.
+
+| Episode/ID | Status dan bukti | Stimulus mahasiswa | Respons Fajar | Perubahan/interpretasi | Adaptasi |
+|---|---|---|---|---|---|
+| U001–AI002 | Waktu terbatas, ingin ukuran nyata | Pertanyaan hambatan dan baseline | Menyatakan 4–5 pesanan terlambat/minggu, 2 jam/hari | Kebutuhan menjadi terukur | U003 menolak menjanjikan hasil |
+| U003–AI005 | Menilai AI mungkin terlalu rumit | Menjelaskan opsi non-AI, gali akses teknologi | Fajar mengakui biasa memakai HP | A/K lebih terbuka; S potensial | U006 rancang uji coba |
+| U006–AI008 | Ingin hasil tanpa pekerjaan tambahan | Uji satu minggu dan pembagian pencatatan ringan | Sepakat dan bertanya arti hasil parsial | K bertambah | U008 menerangkan hemat 25% |
+| U009–AI012 | Meminta tindakan praktis | Kebiasaan pembaruan status dan peran karyawan | Fajar setuju tanggung jawab dan target | Action simulatif berupa kesepakatan | Rencana evaluasi |
+| U013–AI015 | Hasil parsial, ingin keputusan cepat | Angka 25%, perbaikan satu minggu, kriteria stop | Menyetujui keputusan berbasis data | Adaptasi pada batas waktu dan risiko | Tidak memperpanjang uji otomatis |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Kepedulian/penghormatan | Respons teramati | Relasi (estimasi kualitatif) | Batas inferensi |
+|---|---|---|---|---|
+| U001–AI003 | Pembicaraan langsung pada masalah, tanpa memaksa AI | Fajar mengungkap indikator dan kondisi usaha | Keterbukaan sedang → tinggi | Hanya perilaku percakapan |
+| U003–AI008 | Tidak menjanjikan target, mengakui perlunya uji coba | Fajar menganggap penjelasan masuk akal | Rasa dipahami meningkat | Bukan ukuran psikometrik |
+| U011–AI012 | Pembagian tugas ringan dan terukur | Fajar menyatakan tertarik mencoba | Kepercayaan sedang → lebih tinggi | Komitmen verbal, bukan bukti efektivitas |
+| U013–AI015 | Memberi pilihan berhenti dan batas satu minggu | “Saya merasa waktu saya lebih dihargai...” | Rasa dipercaya/dipedulikan tinggi dalam narasi | Tidak membuktikan perasaan orang nyata |
+
+Dalam konteks profesional, kepedulian tampak dari penghormatan waktu dan keputusan berbasis data, bukan ungkapan emosional atau dugaan tentang ketulusan batin.
+
+## Uji ulang dan pembelajaran
+
+Skenario baru menantang hasil awal: waktu hemat 25%, tetapi keterlambatan masih sama. Mahasiswa tidak mengeklaim keberhasilan penuh (U013), memilih satu perubahan alur kerja (U014), lalu menyepakati kriteria berhenti atau lanjut (U015). Hal ini memperlihatkan adaptasi komunikasi, meskipun tidak menguji aplikasi nyata, keamanan data, checklist, atau mekanisme pemulihan jika status keliru.
+
+## Penilaian enam dimensi (usulan AI, bukan nilai resmi)
+
+| Dimensi | Skor 1–4 | Bukti | Alasan singkat |
+|---|---:|---|---|
+| Tujuan dan konteks | 4 | B-U01; U002; U012 | Tujuan dan ukuran sesuai customer |
+| Persepsi dan validasi profil/status | 4 | B-U02; U003; U005; D-U02 | Dugaan diuji dengan pertanyaan dan angka |
+| Pemilihan dan urutan repertoar | 4 | U003–U008; U013–U015 | Menggali → mengukur → menyepakati → menyesuaikan |
+| Eksekusi jelas, peduli, konsisten | 4 | U001; U011; AI015 | Ringkas dan menghargai batas waktu |
+| Evaluasi dan adaptasi | 4 | D-U03; U013–U015 | Menilai hasil parsial dan menentukan keputusan |
+| Refleksi dan lesson learned | 3 | F-U01; F-U02; G-U01 | Refleksi relevan; aspek risiko teknis dan fallback belum mendalam |
+
+**Jumlah 23/24; nilai usulan AI = 95,83/100.** Skor ini hanya usulan untuk moderasi dosen, terpisah dari pencapaian tujuan yang masih sebagian.
+
+## Refleksi dan lesson learned mahasiswa
+
+Mahasiswa menilai penjelasan ringkas, angka jelas, dan tidak menjanjikan hasil sebelum diuji sebagai pendekatan paling efektif (G-U01). Mahasiswa juga mengakui bahwa target dan mekanisme evaluasi sebaiknya disepakati sedini mungkin. Dibanding dugaan awal, target waktu pengecekan 2 jam menjadi 1 jam merupakan informasi baru yang ditemukan lewat dialog (D-U03). Pengalaman ini menunjukkan manfaat menyesuaikan gaya komunikasi dengan kebutuhan customer, termasuk bersedia menghentikan sistem jika tidak memberi manfaat.
+
+**Pertanyaan netral wajib:** “Pesan apa yang membantu atau menghambat rasa dipercaya dan dipedulikan, dan apa bukti responsnya?” Jawaban mahasiswa dicatat lengkap di G-U01, dengan bukti AI015. Kecenderungan yang kurang efektif: menyusun mekanisme pengukuran terlalu belakangan, sehingga perlu penyesuaian di tengah percakapan; pengulangan U007-r juga memerlukan klarifikasi fasilitator dan koreksi menjadi U008.
+
+## Tindak lanjut dan batas bukti
+
+Tindakan yang disepakati di dalam simulasi: satu minggu perbaikan pada waktu pembaruan status; karyawan memperbarui status segera setelah pesanan disiapkan; Fajar mengecek ringkasan harian. Indikator: keterlambatan maksimal dua pesanan per minggu dan waktu pengecekan lebih singkat dari kondisi awal. Bila indikator tercapai, pertimbangkan lanjut; bila sebagian tercapai, evaluasi satu perbaikan tanpa otomatis memperpanjang uji; bila hasil tetap buruk atau menambah pekerjaan, hentikan sementara dan evaluasi penyebabnya. Belum ada bukti pelaksanaan uji coba kedua. Semua hasil adalah peran simulasi teks, tidak mengukur perilaku manusia nyata atau isyarat nonverbal.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Status nilai |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen belum tersedia di laporan ini |
+| Sesi 1 | 18% | Belum tersedia |
+| Sesi 2a | 18% | Belum tersedia |
+| Sesi 2b | 18% | Belum tersedia |
+| Sesi 3a | 18% | Belum tersedia |
+| Sesi 3b | 18% | Belum tersedia |
+| **Total** | **100%** | **Belum dihitung** |
+
+Rumus: `0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)`. BT atau nilai yang belum tersedia tidak dianggap nol dan tidak dinormalisasi ulang. Rata-rata sesi 2a/2b maupun 3a/3b hanya ringkasan, bukan komponen tambahan. Laporan disetujui mahasiswa dengan pesan “setuju”; belum diunggah ke portal oleh asisten.
